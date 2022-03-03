@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# This code is simple and easy to use because I'm new in python :)
 
 import subprocess
 
