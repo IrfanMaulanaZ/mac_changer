@@ -17,5 +17,5 @@ python mac_changer.py
 <br>
 
 # 📝 Note
-This is tool is under development
+This is tool is under development. You van can change the code if you want :)
 
